@@ -1,0 +1,19 @@
+{
+  "name": "tedbot",
+  "version": "1.0.0",
+  "description": "Discord Bot with misc features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boehmer/tedbot.git"
+  },
+  "author": "Jannik Böhme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boehmer/tedbot/issues"
+  },
+  "homepage": "https://github.com/Boehmer/tedbot#readme"
+}
